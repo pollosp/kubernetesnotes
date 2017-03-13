@@ -1,5 +1,6 @@
 #Kubernetes notes and refereces
 ## Resources
+
 ### Flavour
 * [Rancheros] (http://rancher.com/kubernetes/)
 * [Tectonic] (https://coreos.com/tectonic/)
@@ -19,6 +20,7 @@
 * [Wave] (https://www.weave.works/) 
 * [Wave @ Fosdem] (https://youtu.be/bO3gQL9JgRE)
 * [Tigera] (https://www.sdxcentral.com/articles/news/calico-flannel-tigera-new-container-networking-startup/2016/05/)
+* [Canal] (https://github.com/projectcalico/canal)
 
 ### Ingress (Load Balancer L7)
 * [Ingress basics] (https://youtu.be/Syw2PzRudIM)
