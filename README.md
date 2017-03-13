@@ -63,6 +63,8 @@
  
 ### Troubleshooting
 * [Fosdem 17] (https://fosdem.org/2017/schedule/event/troubleshootkube/)
+* [Application troubleshooting] (https://kubernetes.io/docs/user-guide/application-troubleshooting/)
+* [Service Troubleshooting] (https://kubernetes.io/docs/user-guide/debugging-services/)
 
 ### Talks
 * [AWS introduction to container management] (https://m.youtube.com/watch?v=nkguMBVsRbE)
@@ -79,3 +81,5 @@
 * [One year with Kubernetes 3](http://events.linuxfoundation.org/sites/events/files/slides/LinuxCon%2BContainerCon-%20%20One%20year%20of%20Deploying%20Applications%20with%20Docker,%20CoreOS,%20Kubernetes%20and%20Co.pdf)
 * [Lessons learned from three container-management systems over a decade] (http://queue.acm.org/detail.cfm?id=2898444)
 * [Three lessons from running Kubernetes in production](http://labs.unacast.com/2016/01/27/three-lessons-from-running-k8s-in-production/)
+* [10 Most common reasons kubernetes deployments fail part 1](https://www.google.es/amp/s/kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/amp/)
+
