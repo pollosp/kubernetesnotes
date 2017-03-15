@@ -14,8 +14,8 @@
 * [Openshift options] (https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise) 
 
 ### TEST ENVS
-[Minikube](https://github.com/kubernetes/minikube)
-[Minishift](https://github.com/minishift/minishift)
+* [Minikube](https://github.com/kubernetes/minikube)
+* [Minishift](https://github.com/minishift/minishift)
 
 ### Networking
 * [Flannel] (https://github.com/coreos/flannel)
