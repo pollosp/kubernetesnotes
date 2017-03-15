@@ -10,8 +10,12 @@
 * [Kubernetes the hardway] (https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Deis] (https://deis.com/)
 * [OpenShift v3]
-(https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/)
+(https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/) 
+* [Openshift options] (https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise) 
 
+### TEST ENVS
+[Minikube](https://github.com/kubernetes/minikube)
+[Minishift](https://github.com/minishift/minishift)
 
 ### Networking
 * [Flannel] (https://github.com/coreos/flannel)
@@ -43,6 +47,7 @@
 * [Wercker] (http://www.wercker.com/)
 * [Wercker example] (https://youtu.be/PXLL3e7iW40)
 * [CI/CD with Helm and Wercker] (https://m.youtube.com/watch?v=kmH5DWtdGf4)
+* [Simple pipeline with Jenkins] (https://youtu.be/NVoln4HdZOY)
 
 ### Security
 * [Clair] (https://github.com/coreos/clair/blob/master/README.md)
@@ -82,4 +87,6 @@
 * [Lessons learned from three container-management systems over a decade] (http://queue.acm.org/detail.cfm?id=2898444)
 * [Three lessons from running Kubernetes in production](http://labs.unacast.com/2016/01/27/three-lessons-from-running-k8s-in-production/)
 * [10 Most common reasons kubernetes deployments fail part 1](https://www.google.es/amp/s/kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/amp/)
+* [Containers in production] (http://unethicalblogger.com/2017/03/14/on-containers-in-production.html)
+
 
