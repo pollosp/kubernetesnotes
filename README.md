@@ -17,6 +17,11 @@
 * [Minikube](https://github.com/kubernetes/minikube)
 * [Minishift](https://github.com/minishift/minishift)
 
+### HA
+* [Federation] (https://www.youtube.com/watch?v=pq9lbkmxpS8&t=37s)
+* [Kops pushing updates without reboot] (https://github.com/kubernetes/kops/blob/master/docs/work_in_progress/pushing_updates_without_rebooting.md)
+* [Kops federation] (https://github.com/kubernetes/kops/blob/master/docs/high_availability.md)
+
 ### Networking
 * [Flannel] (https://github.com/coreos/flannel)
 * [Calico] (https://www.projectcalico.org/calico-networking-for-kubernetes/)
@@ -25,6 +30,7 @@
 * [Wave @ Fosdem] (https://youtu.be/bO3gQL9JgRE)
 * [Tigera] (https://www.sdxcentral.com/articles/news/calico-flannel-tigera-new-container-networking-startup/2016/05/)
 * [Canal] (https://github.com/projectcalico/canal)
+
 
 ### Ingress (Load Balancer L7)
 * [Ingress basics] (https://youtu.be/Syw2PzRudIM)
@@ -46,6 +52,7 @@
 * [Cloud Pipeline with Aritfactory 2] (https://m.youtube.com/watch?v=rVoR6PIimiI)
 * [Wercker] (http://www.wercker.com/)
 * [Wercker example] (https://youtu.be/PXLL3e7iW40)
+* [Wercker deploy example] (https://coreos.com/blog/building-minimal-containers-with-quay-kubernetes-wercker.html)
 * [CI/CD with Helm and Wercker] (https://m.youtube.com/watch?v=kmH5DWtdGf4)
 * [Simple pipeline with Jenkins] (https://youtu.be/NVoln4HdZOY)
 
