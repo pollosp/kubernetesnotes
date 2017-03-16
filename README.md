@@ -36,6 +36,7 @@
 * [Traefik](https://github.com/containous/traefik)
 * [Fabio](https://github.com/eBay/fabio)
 * [Traefik example](https://youtu.be/19_SdVU4cdc)
+* [Linkerd](https://linkerd.io/)
 
 ### Secret Management
 * [Example 1](https://m.youtube.com/watch?v=N41ZwsORs_g)
