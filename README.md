@@ -102,8 +102,8 @@
 * [Kubernetes in 15 minutes](https://m.youtube.com/watch?v=o85VR90RGNQ) 
 
 ### Experiences
-* [One year with kubernetes 1] (https://www.google.es/amp/s/techbeacon.com/one-year-using-kubernetes-production-lessons-learned%3Famp)
-* [One year with kubernetes 2] (https://acotten.com/post/1year-kubernetes)
+* [One year with kubernetes 1](https://www.google.es/amp/s/techbeacon.com/one-year-using-kubernetes-production-lessons-learned%3Famp)
+* [One year with kubernetes 2](https://acotten.com/post/1year-kubernetes)
 * [One year with Kubernetes 3](http://events.linuxfoundation.org/sites/events/files/slides/LinuxCon%2BContainerCon-%20%20One%20year%20of%20Deploying%20Applications%20with%20Docker,%20CoreOS,%20Kubernetes%20and%20Co.pdf)
 * [Lessons learned from three container-management systems over a decade](http://queue.acm.org/detail.cfm?id=2898444)
 * [Three lessons from running Kubernetes in production](http://labs.unacast.com/2016/01/27/three-lessons-from-running-k8s-in-production/)
