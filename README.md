@@ -9,17 +9,30 @@
 * [Track](https://github.com/kz8s/tack)
 * [Kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Deis](https://deis.com/)
-* [OpenShift v3](https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/) 
+* [OpenShift v3](https://bloHg.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/) 
 * [Openshift options](https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise) 
 
-### TEST ENVS
+### Test environments
 * [Minikube](https://github.com/kubernetes/minikube)
 * [Minishift](https://github.com/minishift/minishift)
+* [Scaling developer environments with kubernetes](https://blog.branch.io/beta-architecture-scaling-developer-environments-with-kubernetes/)
 
-### HA
+### Monitoring
+* [Prometheus operator](https://coreos.com/blog/the-prometheus-operator.html)
+* [Monitoring with Prometheus](https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html)
+* [Heapster](https://github.com/kubernetes/heapster)
+* [Monitoring with Heapster](https://deis.com/blog/2016/monitoring-kubernetes-with-heapster/)
+* [Sysdig](https://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
+* [Honeycombio](https://github.com/honeycombio/honeycomb-kubernetes-agent)
+* [Rethinking monitoring for containers](https://thenewstack.io/monitoring-reset-containers/)
+
+### H.A
 * [Federation](https://www.youtube.com/watch?v=pq9lbkmxpS8&t=37s)
 * [Kops pushing updates without reboot](https://github.com/kubernetes/kops/blob/master/docs/work_in_progress/pushing_updates_without_rebooting.md)
 * [Kops federation](https://github.com/kubernetes/kops/blob/master/docs/high_availability.md)
+* [Experimenting with cross cloud kubernetes](https://medium.com/@samnco/experimenting-with-cross-cloud-kubernetes-cluster-federation-dfa99f913d54#.78sux79h8)
+* [Federated ingress](https://kubernetes.io/docs/tasks/administer-federation/ingress/)
+* [Self-hosted, Scale, and Federation with Kubernetes v1.4 and Beyond](https://www.youtube.com/watch?v=3G8uWxVDQcE)
 
 ### Networking
 * [Flannel](https://github.com/coreos/flannel)
