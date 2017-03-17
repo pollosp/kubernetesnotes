@@ -82,7 +82,7 @@
 * [How to docker images](http://www.projectatomic.io/docs/docker-building-images/)
 * [Packer,docker,kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes) 
 * [Packer example](https://github.com/tcnksm-sample/packer-docker/blob/master/machine_chef.json)
-* [Bulindig docker images with Buddy](https://buddy.works/blog/introducing-build-docker-image)
+* [Buildig docker images with Buddy](https://buddy.works/blog/introducing-build-docker-image)
 
 ### Container patterns
 * [Container patterns Hot 16](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf)
