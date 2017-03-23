@@ -33,6 +33,7 @@
 * [Experimenting with cross cloud kubernetes](https://medium.com/@samnco/experimenting-with-cross-cloud-kubernetes-cluster-federation-dfa99f913d54#.78sux79h8)
 * [Federated ingress](https://kubernetes.io/docs/tasks/administer-federation/ingress/)
 * [Self-hosted, Scale, and Federation with Kubernetes v1.4 and Beyond](https://www.youtube.com/watch?v=3G8uWxVDQcE)
+* [Kubernetes Replication Controller, Replica Set and Deployments: Understanding replication options](https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/)
 
 ### Networking
 * [Flannel](https://github.com/coreos/flannel)
@@ -99,7 +100,11 @@
 * [Kubernetes Best Paractices Google I/O 2016](https://m.youtube.com/watch?v=21hXNReWsUU) 
 * [Kubernetes for Childerns](https://m.youtube.com/watch?v=4ht22ReBjno)
 * [Kubernetes getting started](https://m.youtube.com/watch?v=_vHTaIJm9uY)
-* [Kubernetes in 15 minutes](https://m.youtube.com/watch?v=o85VR90RGNQ) 
+* [Kubernetes in 15 minutes](https://m.youtube.com/watch?v=o85VR90RGNQ)
+* [Container management and deployment: from development to production (Google Cloud Next '17)](https://youtu.be/XL9CQobFB8I)
+
+### Courses
+*  [Udacity - Scalable Microservices with Kubernetes (Beginner)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
 ### Experiences
 * [One year with kubernetes 1](https://www.google.es/amp/s/techbeacon.com/one-year-using-kubernetes-production-lessons-learned%3Famp)
