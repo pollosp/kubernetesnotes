@@ -44,7 +44,6 @@
 * [Tigera](https://www.sdxcentral.com/articles/news/calico-flannel-tigera-new-container-networking-startup/2016/05/)
 * [Canal](https://github.com/projectcalico/canal)
 
-
 ### Ingress (Load Balancer L7)
 * [Ingress basics](https://youtu.be/Syw2PzRudIM)
 * [Traefik](https://github.com/containous/traefik)
@@ -76,6 +75,9 @@
 * [Conjur Examples](https://m.youtube.com/watch?v=8Pw1R7T_ibE) 
 * [Hashicorp Vault talk](https://www.youtube.com/watch?v=skENC9aXgco)
 * [Dagda](https://github.com/eliasgranderubio/dagda)
+* [Understanding Kubernetes Authentication and Authorization
+](http://cloudgeekz.com/1045/kubernetes-authentication-and-authorization.html)
+
 
 ### Bulding Docker images
 * [Bulding images in GKE](https://cloudplatform.googleblog.com/2017/03/Google-Cloud-Container-Builder-a-fast-and-flexible-way-to-package-your-software.html?m=1)
