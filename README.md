@@ -34,6 +34,7 @@
 * [Federated ingress](https://kubernetes.io/docs/tasks/administer-federation/ingress/)
 * [Self-hosted, Scale, and Federation with Kubernetes v1.4 and Beyond](https://www.youtube.com/watch?v=3G8uWxVDQcE)
 * [Kubernetes Replication Controller, Replica Set and Deployments: Understanding replication options](https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/)
+* [Kubernetes cluster federation tutorial](https://github.com/kelseyhightower/kubernetes-cluster-federation)
 
 ### Networking
 * [Flannel](https://github.com/coreos/flannel)
@@ -106,7 +107,7 @@
 * [Container management and deployment: from development to production (Google Cloud Next '17)](https://youtu.be/XL9CQobFB8I)
 
 ### Courses
-*  [Udacity - Scalable Microservices with Kubernetes (Beginner)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+* [Udacity - Scalable Microservices with Kubernetes (Beginner)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
 ### Experiences
 * [One year with kubernetes 1](https://www.google.es/amp/s/techbeacon.com/one-year-using-kubernetes-production-lessons-learned%3Famp)
@@ -116,5 +117,3 @@
 * [Three lessons from running Kubernetes in production](http://labs.unacast.com/2016/01/27/three-lessons-from-running-k8s-in-production/)
 * [10 Most common reasons kubernetes deployments fail part 1](https://www.google.es/amp/s/kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/amp/)
 * [Containers in production](http://unethicalblogger.com/2017/03/14/on-containers-in-production.html)
-
-
