@@ -10,7 +10,11 @@
 * [Kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Deis](https://deis.com/)
 * [OpenShift v3](https://bloHg.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/) 
-* [Openshift options](https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise) 
+* [Openshift options](https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise)
+
+### Basics
+* [Key Concepts of Kubernetes](http://blog.arungupta.me/key-concepts-kubernetes/)
+* [Kubernetes under the Hood](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/aws_under_the_hood.md)
 
 ### Test environments
 * [Minikube](https://github.com/kubernetes/minikube)
@@ -50,7 +54,10 @@
 * [Traefik](https://github.com/containous/traefik)
 * [Fabio](https://github.com/eBay/fabio)
 * [Traefik example](https://youtu.be/19_SdVU4cdc)
+
+### Microservice routing
 * [Linkerd](https://linkerd.io/)
+* [Monzo](https://speakerdeck.com/olix0r/when-failure-is-not-an-option-processing-real-money-at-monzo-with-kubernetes-and-linkerd)
 
 ### Secret Management
 * [Example 1](https://m.youtube.com/watch?v=N41ZwsORs_g)
