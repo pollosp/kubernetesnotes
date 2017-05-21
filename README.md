@@ -15,6 +15,8 @@
 ### Basics
 * [Key Concepts of Kubernetes](http://blog.arungupta.me/key-concepts-kubernetes/)
 * [Kubernetes under the Hood](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/aws_under_the_hood.md)
+* [State and Storage](https://blog.openshift.com/kubernetes-state-storage/#.WSAsjYC7GYM.twitter)
+* [The Three Pillars of Kubernetes Container Orchestration](https://medium.com/@Rancher_Labs/the-three-pillars-of-kubernetes-container-orchestration-247f42115a4a)
 
 ### Test environments
 * [Minikube](https://github.com/kubernetes/minikube)
@@ -39,6 +41,11 @@
 * [Self-hosted, Scale, and Federation with Kubernetes v1.4 and Beyond](https://www.youtube.com/watch?v=3G8uWxVDQcE)
 * [Kubernetes Replication Controller, Replica Set and Deployments: Understanding replication options](https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/)
 * [Kubernetes cluster federation tutorial](https://github.com/kelseyhightower/kubernetes-cluster-federation)
+
+### Stateful apps
+* [Run and Scale Stateful Applications Easily in Kubernetes](http://blog.kubernetes.io/2016/12/statefulset-run-scale-stateful-applications-in-kubernetes.html)
+* [https://opensource.com/article/17/2/stateful-applications](http://blog.kubernetes.io/2017/02/postgresql-clusters-kubernetes-statefulsets.html)
+* [http://blog.kubernetes.io/2017/02/postgresql-clusters-kubernetes-statefulsets.html](https://opensource.com/article/17/2/stateful-applications)
 
 ### Networking
 * [Flannel](https://github.com/coreos/flannel)
@@ -85,6 +92,7 @@
 * [Dagda](https://github.com/eliasgranderubio/dagda)
 * [Understanding Kubernetes Authentication and Authorization
 ](http://cloudgeekz.com/1045/kubernetes-authentication-and-authorization.html)
+* [Kube2IAM](https://github.com/jtblin/kube2iam)
 
 
 ### Bulding Docker images
