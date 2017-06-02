@@ -123,6 +123,7 @@
 
 ### Addons/Tools
 * [Ksonnet](http://ksonnet.heptio.com/)
+* [Draft](http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html?m=1)
 
 ### Courses
 * [Udacity - Scalable Microservices with Kubernetes (Beginner)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
