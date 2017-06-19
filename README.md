@@ -11,12 +11,16 @@
 * [Deis](https://deis.com/)
 * [OpenShift v3](https://bloHg.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/)
 * [Openshift options](https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise)
+* [Kublr](http://kublr.com/)
+* [Kubo](https://pivotal.io/partners/kubo)
 
 ### Basics
 * [Key Concepts of Kubernetes](http://blog.arungupta.me/key-concepts-kubernetes/)
 * [Kubernetes under the Hood](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/aws_under_the_hood.md)
 * [State and Storage](https://blog.openshift.com/kubernetes-state-storage/#.WSAsjYC7GYM.twitter)
 * [The Three Pillars of Kubernetes Container Orchestration](https://medium.com/@Rancher_Labs/the-three-pillars-of-kubernetes-container-orchestration-247f42115a4a)
+* [Comparison of container schedulers](https://medium.com/@ArmandGrillet/comparison-of-container-schedulers-c427f4f7421)
+* [Kubernetes 1.6 new features](https://www.brighttalk.com/webcast/14601/262767)
 
 ### Test environments
 * [Minikube](https://github.com/kubernetes/minikube)
@@ -41,11 +45,13 @@
 * [Self-hosted, Scale, and Federation with Kubernetes v1.4 and Beyond](https://www.youtube.com/watch?v=3G8uWxVDQcE)
 * [Kubernetes Replication Controller, Replica Set and Deployments: Understanding replication options](https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/)
 * [Kubernetes cluster federation tutorial](https://github.com/kelseyhightower/kubernetes-cluster-federation)
+* [Federation with StackpointCluoud](https://blog.stackpoint.io/simplifying-kubernetes-federation-building-the-enterprise-infrastructure-highway-4e333a75bb24)
 
 ### Stateful apps
 * [Run and Scale Stateful Applications Easily in Kubernetes](http://blog.kubernetes.io/2016/12/statefulset-run-scale-stateful-applications-in-kubernetes.html)
 * [https://opensource.com/article/17/2/stateful-applications](http://blog.kubernetes.io/2017/02/postgresql-clusters-kubernetes-statefulsets.html)
 * [http://blog.kubernetes.io/2017/02/postgresql-clusters-kubernetes-statefulsets.html](https://opensource.com/article/17/2/stateful-applications)
+* [Ruby migrations](http://blog.bigbinary.com/2017/06/16/managing-rails-tasks-such-as-db-migrate-and-db-seed-on-kuberenetes-while-performing-rolling-deployments.html)
 
 ### Networking
 * [Flannel](https://github.com/coreos/flannel)
@@ -110,6 +116,9 @@
 * [Fosdem 17](https://fosdem.org/2017/schedule/event/troubleshootkube/)
 * [Application troubleshooting](https://kubernetes.io/docs/user-guide/application-troubleshooting/)
 * [Service Troubleshooting](https://kubernetes.io/docs/user-guide/debugging-services/)
+
+### External DNS
+* [CloudFlare](https://github.com/kubernetes-incubator/external-dns/pull/140)
 
 ### Talks
 * [AWS introduction to container management](https://m.youtube.com/watch?v=nkguMBVsRbE)
