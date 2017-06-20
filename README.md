@@ -67,6 +67,7 @@
 * [Traefik](https://github.com/containous/traefik)
 * [Fabio](https://github.com/eBay/fabio)
 * [Traefik example](https://youtu.be/19_SdVU4cdc)
+* [Lets encrypt](https://medium.com/google-cloud/from-zero-to-hero-run-parse-server-on-google-cloud-platform-part-3-automatically-obtain-lets-d7db8994000a)
 
 ### Microservice routing
 * [Linkerd](https://linkerd.io/)
