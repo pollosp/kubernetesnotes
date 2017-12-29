@@ -13,6 +13,8 @@
 * [Openshift options](https://www.quora.com/What-is-the-difference-between-OpenShift-Origin-Online-and-Enterprise)
 * [Kublr](http://kublr.com/)
 * [Kubo](https://pivotal.io/partners/kubo)
+* [Kubicorn](https://github.com/kris-nova/kubicorn)
+* [k8s-snowflake](https://github.com/jessfraz/k8s-snowflake)
 
 ### Basics
 * [Key Concepts of Kubernetes](http://blog.arungupta.me/key-concepts-kubernetes/)
@@ -21,6 +23,8 @@
 * [The Three Pillars of Kubernetes Container Orchestration](https://medium.com/@Rancher_Labs/the-three-pillars-of-kubernetes-container-orchestration-247f42115a4a)
 * [Comparison of container schedulers](https://medium.com/@ArmandGrillet/comparison-of-container-schedulers-c427f4f7421)
 * [Kubernetes 1.6 new features](https://www.brighttalk.com/webcast/14601/262767)
+* [Best practices with kubernetes](https://github.com/arschles/kube-best-practices)
+* [What happend when k8s ... ](https://github.com/jamiehannaford/what-happens-when-k8s)
 
 ### Test environments
 * [Minikube](https://github.com/kubernetes/minikube)
@@ -61,22 +65,29 @@
 * [Wave @ Fosdem](https://youtu.be/bO3gQL9JgRE)
 * [Tigera](https://www.sdxcentral.com/articles/news/calico-flannel-tigera-new-container-networking-startup/2016/05/)
 * [Canal](https://github.com/projectcalico/canal)
+* [Network policies](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+* [Amazon VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
 
-### Ingress (Load Balancer L7)
+### Ingress (Load Balancer)
 * [Ingress basics](https://youtu.be/Syw2PzRudIM)
 * [Traefik](https://github.com/containous/traefik)
 * [Fabio](https://github.com/eBay/fabio)
 * [Traefik example](https://youtu.be/19_SdVU4cdc)
 * [Lets encrypt](https://medium.com/google-cloud/from-zero-to-hero-run-parse-server-on-google-cloud-platform-part-3-automatically-obtain-lets-d7db8994000a)
+* [Envoy](https://www.envoyproxy.io/)
+* [Heptio Contour](https://github.com/heptio/contour)
 
 ### Microservice routing
 * [Linkerd](https://linkerd.io/)
 * [Monzo](https://speakerdeck.com/olix0r/when-failure-is-not-an-option-processing-real-money-at-monzo-with-kubernetes-and-linkerd)
+* [Istio](https://istio.io/)
 
 ### Secret Management
 * [Example 1](https://m.youtube.com/watch?v=N41ZwsORs_g)
 * [Example 2](https://m.youtube.com/watch?v=N41ZwsORs_g)
 * [Hashicorp Vault example 1](https://www.youtube.com/watch?v=kb7DU-Qwtrc)
+* [Pods, Tokens, and a Little Glue: Integrating Kubernetes and Vault in Elastic Infrastructure](https://www.elastic.co/blog/kubernetes-vault-integration-devops-team)
+* [Bitami sealed secrets](https://github.com/bitnami/sealed-secrets)
 
 ### CI/CD
 * [Helm](https://github.com/kubernetes/helm/blob/master/README.md  )
@@ -100,6 +111,7 @@
 * [Understanding Kubernetes Authentication and Authorization
 ](http://cloudgeekz.com/1045/kubernetes-authentication-and-authorization.html)
 * [Kube2IAM](https://github.com/jtblin/kube2iam)
+* [Heptio authenticator (IAM)](https://github.com/heptio/authenticator)
 
 
 ### Bulding Docker images
@@ -121,7 +133,12 @@
 ### External DNS
 * [CloudFlare](https://github.com/kubernetes-incubator/external-dns/pull/140)
 
-### Talks
+### CRD
+* [Kubernetes deep dive code generation customresources](https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/)
+* [CRD RDS example](https://github.com/MYOB-Technology/ops-kube-db-operator?files=1)
+* [Heptio controller example](https://github.com/jbeda/tgik-controller)
+
+### Videos
 * [AWS introduction to container management](https://m.youtube.com/watch?v=nkguMBVsRbE)
 * [Hightower Hashiconf 2016](https://m.youtube.com/watch?v=Nosa5-xcATw)
 * [Hightower PuppetConf 2016](https://m.youtube.com/watch?v=HlAXp0-M6SY)
@@ -130,10 +147,15 @@
 * [Kubernetes getting started](https://m.youtube.com/watch?v=_vHTaIJm9uY)
 * [Kubernetes in 15 minutes](https://m.youtube.com/watch?v=o85VR90RGNQ)
 * [Container management and deployment: from development to production (Google Cloud Next '17)](https://youtu.be/XL9CQobFB8I)
+* [Heptio youtube channel](https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg)
 
 ### Addons/Tools
 * [Ksonnet](http://ksonnet.heptio.com/)
-* [Draft](http://blog.kubernetes.io/2017/05/draft-kubernetes-container-development.html?m=1)
+* [Draft](https://github.com/Azure/draft)
+* [Metaparticle](https://metaparticle.io/)
+* [Sonobuoy](https://github.com/heptio/sonobuoy)
+* [ARK](https://github.com/heptio/ark)
+* [Brigade](https://github.com/Azure/brigade)
 
 ### Courses
 * [Udacity - Scalable Microservices with Kubernetes (Beginner)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -146,3 +168,4 @@
 * [Three lessons from running Kubernetes in production](http://labs.unacast.com/2016/01/27/three-lessons-from-running-k8s-in-production/)
 * [10 Most common reasons kubernetes deployments fail part 1](https://www.google.es/amp/s/kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/amp/)
 * [Containers in production](http://unethicalblogger.com/2017/03/14/on-containers-in-production.html)
+* [Operating Kubernetes @ stripe](https://stripe.com/blog/operating-kubernetes)
