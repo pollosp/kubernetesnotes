@@ -4,7 +4,7 @@
 ### Flavour
 * [Rancheros](http://rancher.com/kubernetes/)
 * [Tectonic](https://coreos.com/tectonic/)
-* [Heptio](https://www.heptio.com/)
+* [Heptio](http://docs.heptio.com/content/tutorials/aws-cloudformation-k8s.html)
 * [Kops](https://github.com/kubernetes/kops)
 * [Track](https://github.com/kz8s/tack)
 * [Kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way)
@@ -112,6 +112,7 @@
 ](http://cloudgeekz.com/1045/kubernetes-authentication-and-authorization.html)
 * [Kube2IAM](https://github.com/jtblin/kube2iam)
 * [Heptio authenticator (IAM)](https://github.com/heptio/authenticator)
+* [RBAC best practices](http://docs.heptio.com/content/tutorials/rbac.html)
 
 
 ### Bulding Docker images
@@ -137,6 +138,11 @@
 * [Kubernetes deep dive code generation customresources](https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/)
 * [CRD RDS example](https://github.com/MYOB-Technology/ops-kube-db-operator?files=1)
 * [Heptio controller example](https://github.com/jbeda/tgik-controller)
+
+### Affinity 
+* [Advanced Scheduling in Kubernetes](http://blog.kubernetes.io/2017/03/advanced-scheduling-in-kubernetes.html)
+* [Kubernetes: Advanced Scheduling Controls](https://www.youtube.com/watch?v=qewfWj_zOgI)
+* [Tolerations and taints](https://docs.openshift.com/container-platform/3.6/admin_guide/scheduling/taints_tolerations.html)
 
 ### Videos
 * [AWS introduction to container management](https://m.youtube.com/watch?v=nkguMBVsRbE)
