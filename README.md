@@ -101,6 +101,7 @@
 * [Wercker deploy example](https://coreos.com/blog/building-minimal-containers-with-quay-kubernetes-wercker.html)
 * [CI/CD with Helm and Wercker](https://m.youtube.com/watch?v=kmH5DWtdGf4)
 * [Simple pipeline with Jenkins](https://youtu.be/NVoln4HdZOY)
+* [Argo](https://github.com/argoproj/arg)
 
 ### Security
 * [Clair](https://github.com/coreos/clair/blob/master/README.md)
@@ -139,7 +140,7 @@
 * [CRD RDS example](https://github.com/MYOB-Technology/ops-kube-db-operator?files=1)
 * [Heptio controller example](https://github.com/jbeda/tgik-controller)
 
-### Affinity 
+### Affinity
 * [Advanced Scheduling in Kubernetes](http://blog.kubernetes.io/2017/03/advanced-scheduling-in-kubernetes.html)
 * [Kubernetes: Advanced Scheduling Controls](https://www.youtube.com/watch?v=qewfWj_zOgI)
 * [Tolerations and taints](https://docs.openshift.com/container-platform/3.6/admin_guide/scheduling/taints_tolerations.html)
@@ -175,3 +176,4 @@
 * [10 Most common reasons kubernetes deployments fail part 1](https://www.google.es/amp/s/kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/amp/)
 * [Containers in production](http://unethicalblogger.com/2017/03/14/on-containers-in-production.html)
 * [Operating Kubernetes @ stripe](https://stripe.com/blog/operating-kubernetes)
+* [Make Kubernetes Production Ready](https://youtu.be/tbD6Rcm2sI8)
