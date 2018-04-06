@@ -67,6 +67,8 @@
 * [Canal](https://github.com/projectcalico/canal)
 * [Network policies](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Amazon VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
+* [NodePort vs LoadBalancer vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+* [Container networking](https://github.com/mhausenblas/cn-ref)
 
 ### Ingress (Load Balancer)
 * [Ingress basics](https://youtu.be/Syw2PzRudIM)
@@ -102,6 +104,7 @@
 * [CI/CD with Helm and Wercker](https://m.youtube.com/watch?v=kmH5DWtdGf4)
 * [Simple pipeline with Jenkins](https://youtu.be/NVoln4HdZOY)
 * [Argo](https://github.com/argoproj/arg)
+* [Jenkins X](https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/index.html)
 
 ### Security
 * [Clair](https://github.com/coreos/clair/blob/master/README.md)
@@ -114,6 +117,8 @@
 * [Kube2IAM](https://github.com/jtblin/kube2iam)
 * [Heptio authenticator (IAM)](https://github.com/heptio/authenticator)
 * [RBAC best practices](http://docs.heptio.com/content/tutorials/rbac.html)
+* [Building Container Images Securely on Kubernetes](https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/)
+* [kubernetes security best practices](https://github.com/freach/kubernetes-security-best-practice)
 
 
 ### Bulding Docker images
@@ -122,7 +127,7 @@
 * [How to docker images](http://www.projectatomic.io/docs/docker-building-images/)
 * [Packer,docker,kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes)
 * [Packer example](https://github.com/tcnksm-sample/packer-docker/blob/master/machine_chef.json)
-* [Buildig docker images with Buddy](https://buddy.works/blog/introducing-build-docker-image)
+* [Building docker images with Buddy](https://buddy.works/blog/introducing-build-docker-image)
 
 ### Container patterns
 * [Container patterns Hot 16](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf)
@@ -140,10 +145,12 @@
 * [CRD RDS example](https://github.com/MYOB-Technology/ops-kube-db-operator?files=1)
 * [Heptio controller example](https://github.com/jbeda/tgik-controller)
 
-### Affinity
+### Scheduling
 * [Advanced Scheduling in Kubernetes](http://blog.kubernetes.io/2017/03/advanced-scheduling-in-kubernetes.html)
 * [Kubernetes: Advanced Scheduling Controls](https://www.youtube.com/watch?v=qewfWj_zOgI)
 * [Tolerations and taints](https://docs.openshift.com/container-platform/3.6/admin_guide/scheduling/taints_tolerations.html)
+* [Kubernetes Engine Priority and Preemption](https://cloudplatform.googleblog.com/2018/02/get-the-most-out-of-Google-Kubernetes-Engine-with-Priority-and-Preemption.html)
+* [Preemption and Priority](https://kubernetes.io/docs/concepts/configuration/pod-priority-preemption/)
 
 ### Videos
 * [AWS introduction to container management](https://m.youtube.com/watch?v=nkguMBVsRbE)
@@ -163,6 +170,10 @@
 * [Sonobuoy](https://github.com/heptio/sonobuoy)
 * [ARK](https://github.com/heptio/ark)
 * [Brigade](https://github.com/Azure/brigade)
+* [Skaffold](https://t.co/4YC4O8Z6ky)
+* [kubectx](https://github.com/ahmetb/kubectx)
+* [kube-ps1](https://github.com/jonmosco/kube-ps1)
+* [Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold](https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948)
 
 ### Courses
 * [Udacity - Scalable Microservices with Kubernetes (Beginner)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -177,3 +188,4 @@
 * [Containers in production](http://unethicalblogger.com/2017/03/14/on-containers-in-production.html)
 * [Operating Kubernetes @ stripe](https://stripe.com/blog/operating-kubernetes)
 * [Make Kubernetes Production Ready](https://youtu.be/tbD6Rcm2sI8)
+* [Scaling up with Google Kubernetes Engine: our experience after 6 months in production](https://medium.com/streamroot-developers-blog/scaling-up-with-google-kubernetes-engine-our-experience-after-6-months-in-production-ec9e21cd5fce)
